@@ -1,0 +1,25 @@
+coursename,coursedurationdays,coursemethod,coursedurationhours,plannedstartdate,plannedenddate,actualstartdate,actualenddate,status,trainer_id,programmebatch_id
+Soft Skills Upskilling,,Instructor Led,,,,,,Completed,,1
+EAS-004 Data Warehouse Fundamentals,,Instructor Led,,1/2/2022,4/2/2022,1/2/2022,4/2/2022,Completed,16,1
+SCRIPT-002 Python Basics,,Instructor Led,,24/2/2022,9/3/2022,24/2/2022,9/3/2022,Completed,17,1
+SCRIPT-003 Object-oriented Programming,,Instructor Led,,24/2/2022,9/3/2022,24/2/2022,9/3/2022,Completed,18,1
+Java,,Instructor Led,,10/3/2022,15/3/2022,10/3/2022,15/3/2022,Completed,19,1
+Linux,,Instructor Led,,,,,,Not Started,,1
+Hadoop,,Instructor Led,,,,,,Not Started,,1
+On-Job Project 1,,Mentor Led,,,,,,Not Started,,1
+On-Job Project 2,,Mentor Led,,,,,,Not Started,,1
+Soft Skills Upskilling,,Instructor Led,,,,,,Not Started,,2
+EAS-004 Data Warehouse Fundamentals,,Instructor Led,,,,,,Not Started,,2
+SCRIPT-002 Python Basics,,Instructor Led,,,,,,Not Started,,2
+SCRIPT-003 Object-oriented Programming,,Instructor Led,,,,,,Not Started,,2
+Java,,Instructor Led,,,,,,Not Started,,2
+Linux,,Instructor Led,,,,,,Not Started,,2
+Hadoop,,Instructor Led,,,,,,Not Started,,2
+On-Job Project 1,,Mentor Led,,,,,,Not Started,,2
+On-Job Project 2,,Mentor Led,,,,,,Not Started,,2
+Financial Management,,Instructor Led,,18/7/2022,23/7/2022,18/7/2022,23/7/2022,Completed,81,3
+Principals of Accounting,,Instructor Led,,30/7/2022,4/8/2022,30/7/2022,4/8/2022,Completed,82,3
+Business Operations,,Instructor Led,,,,,,Not Started,,3
+Portfolio Management,,Instructor Led,,,,,,Not Started,,3
+Banking Fundementals,,Instructor Led,,,,,,Not Started,,3
+Banking Compliance,,Online,,,,,,Not Started,,3
